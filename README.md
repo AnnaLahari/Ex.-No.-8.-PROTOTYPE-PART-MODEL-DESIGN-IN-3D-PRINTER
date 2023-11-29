@@ -43,6 +43,9 @@
 ###   5.	Wait until the nozzle & bed plate comes into the required temperature.
 ###   6.	Close the doors of the 3d printer.
 ###   7.	Open the file from the USB storage and select the Print option.
+## OUTPUT:
+![image](https://github.com/AnnaLahari/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/149365425/a7f4a04b-67dd-48e3-baa0-0371dc78a4b8)
+
 
 ### Name:A.Lahari
 ### Register Number:23002931
